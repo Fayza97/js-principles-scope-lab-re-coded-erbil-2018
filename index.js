@@ -1,4 +1,4 @@
-// Write your solution in this file!
+// Write your solution in this ile!
 var customerName = 'bob'
 const leastFavoriteCustomer = 'some initial value'
 
